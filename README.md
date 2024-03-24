@@ -1,4 +1,4 @@
-### Hi there 👋
+Je m'appelle Adrien et je suis actuellement un bachelore en Dev de jeu video (2e annee)
 
 <!--
 **Kybrien/Kybrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
