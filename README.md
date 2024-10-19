@@ -1,4 +1,15 @@
-Je m'appelle Adrien et je suis actuellement un bachelore en Dev de jeu video (3e annee)
+# Adrien PATTE // Kybrien
+Bonjour, je suis Adrien un etudiant en 3e annee de developpement de jeu video.   
+
+## Mes Projets
+Vous trouverez ici tous mes projets perso et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
+Je travaille actuellement sur un projet Unreal Engine et sur UEFN en parallele (Verse).   
+> Mon Portfolio : https://adrienpatte.framer.website/
+
+
+
+
+
 
 <!--
 **Kybrien/Kybrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
