@@ -1,9 +1,10 @@
 # Adrien PATTE // Kybrien
-Bonjour, je suis Adrien un etudiant en 3e annee de developpement de jeu video.   
+Etudiant en 3e annee de Dev de Jeux video.
+A la recherche d'une alternance.
 
 ## Mes Projets
 Vous trouverez ici tous mes projets perso et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
-Je travaille actuellement sur un projet Unreal Engine et sur UEFN en parallele (Verse).   
+Je travaille actuellement sur des jeux en 2DHDs sur Unity.   
 > Mon Portfolio : https://adrienpatte.framer.website/
 
 
