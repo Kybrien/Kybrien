@@ -1,6 +1,7 @@
 # Adrien PATTE // Kybrien
 Etudiant en 3e annee de Dev de Jeux video.
 A la recherche d'une alternance.
+Working on : HD2D Game ***Tosamura PROJECT***
 
 ## Mes Projets
 Vous trouverez ici tous mes projets perso et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
