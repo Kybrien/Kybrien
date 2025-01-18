@@ -1,12 +1,12 @@
 # Adrien // Kybrien
 Etudiant en 3e annee de Dev de Jeux video.
 A la recherche d'une alternance.
-Working on : HD2D Game ***Tosamura PROJECT***
+Working on : HD2D Game ***My Oldest Nightmare***
 
 ## Mes Projets
-Vous trouverez ici tous mes projets perso et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
+Vous trouverez ici tous mes projets persos et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
 Je travaille actuellement sur des jeux en 2DHDs sur Unity.   
-> Mon Portfolio : https://adrienpatte.framer.website/
+> [Mon Portfolio : https://adrienpatte.framer.website/](https://adrienpatte-portfolio.framer.website)
 
 
 
