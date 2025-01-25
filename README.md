@@ -8,6 +8,8 @@ Vous trouverez ici tous mes projets persos et de travail que j'ai effectue duran
 Je travaille actuellement sur des jeux en 2DHDs sur Unity et Unreal Engine 5.   
 > [Mon Portfolio : https://adrienpatte.framer.website/](https://adrienpatte-portfolio.framer.website)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6794f45d32284498bce3716a?variant=dark)](https://roadmap.sh)
+
 
 
 
