@@ -1,7 +1,7 @@
 # Adrien // Kybrien
 Etudiant en 3e annee de Dev de Jeux video.
 A la recherche d'une alternance.
-Working on : HD2D Game ***My Oldest Nightmare***
+Working on : HD2D Game ***Dino Party***
 
 ## Mes Projets
 Vous trouverez ici tous mes projets persos et de travail que j'ai effectue durant mes 3 dernieres annees de programmation.    
