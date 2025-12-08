@@ -52,14 +52,6 @@
 
 ---
 
-### 🕹️ Derniers jeux joués (Steam)
-
-<p align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
-</p>
-
----
-
 ### 🎬 Projects showcase
 
 <p align="center">
@@ -104,6 +96,13 @@
   <img src="images/projet2_01.png" alt="Projet 2 - shot 1" width="30%" />
   <img src="images/projet2_02.png" alt="Projet 2 - shot 2" width="30%" />
   <img src="images/projet3_01.png" alt="Projet 3 - shot 1" width="30%" />
+</p>
+
+---
+### 🕹️ Derniers jeux joués (Steam)
+
+<p align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
 </p>
 
 ---
