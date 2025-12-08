@@ -1,5 +1,5 @@
 # Adrien // Kybrien
-Etudiant en 3e annee de Dev de Jeux video.
+1ere annee de master a Quest Education PARIS.
 A la recherche d'une alternance.
 Working on : Secret Multiplayer Game
 
