@@ -63,27 +63,33 @@
 ### 🎬 Projects showcase
 
 <p align="center">
-  <!-- 3 “cards” projet centrées avec un petit espace entre chaque -->
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
         <strong>🎮 Projet 1 – Titre du jeu</strong><br/>
         <sub>Prototype UE5 – gameplay / physics</sub><br/><br/>
-        <img src="images/projet1_01.png" alt="Projet 1 screenshot" width="100%" />
+        <a href="https://ton-lien-projet1.com" target="_blank">
+          <img src="images/projet1_01.png" alt="Projet 1 screenshot" width="100%" />
+        </a>
       </td>
       <td align="center" style="padding: 10px;">
         <strong>🧪 Projet 2 – Plugin / Tool</strong><br/>
         <sub>Plugin Twitch × Unreal / automation</sub><br/><br/>
-        <img src="images/projet2_01.png" alt="Projet 2 screenshot" width="100%" />
+        <a href="https://ton-lien-projet2.com" target="_blank">
+          <img src="images/projet2_01.png" alt="Projet 2 screenshot" width="100%" />
+        </a>
       </td>
       <td align="center" style="padding: 10px;">
         <strong>🕹️ Projet 3 – Expérience</strong><br/>
         <sub>Sandbox / coop / expérience narrative</sub><br/><br/>
-        <img src="images/projet3_01.png" alt="Projet 3 screenshot" width="100%" />
+        <a href="https://ton-lien-projet3.com" target="_blank">
+          <img src="images/projet3_01.png" alt="Projet 3 screenshot" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 #### 🎞️ Screenshot gallery
 
