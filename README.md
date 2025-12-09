@@ -16,6 +16,11 @@
 
 <p align="center">
 
+<table><tr>
+<td valign="top" width="60%">
+
+<!-- Tech stack badges -->
+
   <!-- Core dev -->
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
@@ -30,7 +35,17 @@
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
 
-</p>
+</td>
+
+<td width="5%">
+  <div style="width: 2px; height: 200px; background: linear-gradient(180deg, #00F5FF 0%, #FF00FF 50%, #FFFF00 100%); margin: 0 auto;"></div>
+</td>
+
+<td valign="top" width="35%">
+  <h4>🎵 Currently Vibing</h4>
+  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="100%" />
+</td>
+</tr></table>
 
 
 ---
@@ -112,12 +127,5 @@
 ---
 
 <br><br><br><br><br>
-
----
-
-### ▶ 🎵 Currently Vibing
-
-![spotify-github-profile](/images/SpotifyPreview.svg)
-
 
 </p>
