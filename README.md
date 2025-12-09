@@ -8,11 +8,7 @@
 
 - 🎮 Master 1 Game Development (La Défense)  
 - 🕹️ Gameplay systems, physics-based mechanics, UE5 / UEFN  
-- 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)  
-
----
-
-### 🧬 Tech stack
+- 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)
 
 <p align="center">
 
