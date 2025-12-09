@@ -99,3 +99,24 @@
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+
+
+---
+
+<br><br><br><br><br>
+
+---
+
+### ▶ 🎵 Currently Vibing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/TON_SPOTIFY_USER_ID">
+    <img src="https://novatorem-kybrien.vercel.app/api/spotify?background_color=0d1117&border_color=00F0FF" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Live Spotify activity powered by Novatorem</i>
+</p>
