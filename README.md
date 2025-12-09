@@ -1,8 +1,6 @@
 <!-- github.com/Kybrien/Kybrien -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=00F0FF&center=true&vCenter=true&width=900&lines=Adrien+PATTE+%7C+Kybrien;Game+Developer+%26+Game+Designer;Unreal+Engine+5+%7C+Gameplay+%26+Systems;Neon+worlds%2C+interactive+stories" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=600&color=00F0FF&center=true&vCenter=true&width=900&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
 
 ---
 
