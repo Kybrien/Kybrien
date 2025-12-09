@@ -92,14 +92,12 @@
 ### 🌐 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TON_MAIL">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+       
+  <a href="mailto:TON_MAIL"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/RKGK6CK.png"/></a>
+       
+  <a href="https://github.com/Kybrien"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/kZcJFZ3.png"/></a>
 </p>
-
 
 
 
