@@ -90,3 +90,5 @@
   <img src="images/projet1_02.png" alt="Projet 1 - shot 2" width="30%" />
   <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=dark-minimalist&border_radius=60&card_width=700&card_height=170" alt="GitHub Streak" /></a>
