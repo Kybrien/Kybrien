@@ -1,21 +1,22 @@
 <!-- github.com/Kybrien/Kybrien -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=200&color=00F0FF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=00F0FF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
+</p>
 
 ### ⚡ Kybrien // Neon Game Dev
 
 - 🎮 Master 1 Game Development (La Défense)  
 - 🕹️ Gameplay systems, physics-based mechanics, UE5 / UEFN  
-- 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)
+- 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)  
+
+---
+
+### 🧬 Tech stack
 
 <p align="center">
 
- 
-
-</p>
- <!-- Core dev -->
+  <!-- Core dev -->
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
@@ -28,6 +29,9 @@
   <img src="https://img.shields.io/badge/Canvas-111827?style=for-the-badge&logo=canvas&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
+
+</p>
+
 ---
 
 ### 🌌 Neon stats
@@ -42,6 +46,14 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybrien&layout=compact&theme=tokyonight&hide_border=true&card_width=460" 
     alt="Top languages Kybrien" />
+</p>
+
+---
+
+### 🕹️ Derniers jeux joués (Steam)
+
+<p align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
 </p>
 
 ---
@@ -76,11 +88,9 @@
   </table>
 </p>
 
-
 #### 🎞️ Screenshot gallery
 
 <p align="center">
-  <!-- “Carrousel” manuel avec plusieurs images côte à côte -->
   <img src="images/projet1_01.png" alt="Projet 1 - shot 1" width="30%" />
   <img src="images/projet1_02.png" alt="Projet 1 - shot 2" width="30%" />
   <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
@@ -90,13 +100,6 @@
   <img src="images/projet2_01.png" alt="Projet 2 - shot 1" width="30%" />
   <img src="images/projet2_02.png" alt="Projet 2 - shot 2" width="30%" />
   <img src="images/projet3_01.png" alt="Projet 3 - shot 1" width="30%" />
-</p>
-
----
-### 🕹️ Derniers jeux joués (Steam)
-
-<p align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
 </p>
 
 ---
