@@ -18,15 +18,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Unreal%20Engine-1118272?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/C%23-985CFF?style=for-the-badge&logo=csharp&logoColor=ffffff" />
-
-<!--- Tools --->
-<img src="https://img.shields.io/badge/Github-1118272?style=for-the-badge&logo=github&logoColor=white" />
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
@@ -41,7 +32,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profilstyle="display: inline-block; padding-left: 20px; transform: translateY(-50px)" width="49%"" />
+  <p>|---------------------------------------|---------------------------------------|</p>
+  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profilstyle="display: inline-block; padding-left: 20px; transform: translateY(-50px)" width="49%"" />
 </div>
 
 ### ⚡ Kybrien // Neon Game Dev
@@ -91,4 +83,5 @@
   <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
 </p>
 
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=dark-minimalist&border_radius=60&card_width=700&card_height=170" alt="GitHub Streak" /></a>
