@@ -33,21 +33,10 @@
 
 ### 🕹️ Derniers jeux joués (Steam) & 🎵 Spotify
 
-<table>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
-</p>
+<div align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="49%" />
+  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="49%" />
+</div>
 
 ---
 
