@@ -79,7 +79,7 @@
       }
 
       .bar {
-        background: #5CCCC4;
+        background: #5CCCC4 !important;
         bottom: 1px;
         height: 3px;
         position: absolute;
