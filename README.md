@@ -112,11 +112,7 @@
 ### ▶ 🎵 Currently Vibing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/TON_SPOTIFY_USER_ID">
+  <a href="https://open.spotify.com/user/ygsjqu9qw5soiqccmmaxmvdp5">
     <img src="https://novatorem-kybrien.vercel.app/api/spotify?background_color=0d1117&border_color=00F0FF" alt="Spotify Now Playing" width="400" />
   </a>
-</p>
-
-<p align="center">
-  <i>Live Spotify activity powered by Novatorem</i>
 </p>
