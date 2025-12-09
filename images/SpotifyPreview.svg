@@ -114,8 +114,7 @@
       
         
           <a href="{}" target="_BLANK" class="cover-link">
-            <img src="SpotifyCover.png" width="64" height="64" class="cover" />
-          </a>
+            <image href="https://raw.githubusercontent.com/Kybrien/Kybrien/main/images/SpotifyCover.png" width="64" height="64" x="10" y="10" class="cover" />          </a>
         
         <div class="text-container">
           <div class="artist">Pierce The Veil</div>
