@@ -44,33 +44,29 @@
 
 
 ---
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <strong>🎮 Projet 1 – Titre du jeu</strong><br/>
-        <sub>Prototype UE5 – gameplay / physics</sub><br/><br/>
-        <a href="https://ton-lien-projet1.com" target="_blank">
-          <img src="images/projet1_01.png" alt="Projet 1 screenshot" width="100%" />
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <strong>🧪 Projet 2 – Plugin / Tool</strong><br/>
-        <sub>Plugin Twitch × Unreal / automation</sub><br/><br/>
-        <a href="https://ton-lien-projet2.com" target="_blank">
-          <img src="images/projet2_01.png" alt="Projet 2 screenshot" width="100%" />
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <strong>🕹️ Projet 3 – Expérience</strong><br/>
-        <sub>Sandbox / coop / expérience narrative</sub><br/><br/>
-        <a href="https://ton-lien-projet3.com" target="_blank">
-          <img src="images/projet3_01.png" alt="Projet 3 screenshot" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+
+### 🚀 My Latest Project
+
+<div align="center">
+  <a href="https://www.fab.com/listings/97e1b3d0-df12-41eb-89f4-3e4e54f28fc4" target="_blank">
+    <img src="https://raw.githubusercontent.com/Kybrien/Kybrien/main/images/TwitchStreamSync_Banner.png" alt="Twitch StreamSync Banner" width="80%" />
+  </a>
+</div>
+
+#### **Twitch StreamSync** – The all-in-one Twitch plugin for Unreal Engine
+
+Connect your Unreal projects or games to Twitch in minutes, and interact with it in real-time!
+
+**Features:**
+- 🔐 **OAuth 2.0**: Secure authentication with automatic token refresh
+- 💬 **Chat Integration**: WebSocket IRC with command system & moderation tools
+- 📡 **EventSub**: Support for WebSocket & Webhook transports
+- ⚡ **Helix API**: Stream title, game category, polls, predictions, channel points
+- 🎮 **Dev Simulator**: Test redeems, subs, raids, and more without going live
+- 📘 **Blueprint-First**: 80+ exposed nodes for rapid prototyping
+- 🔧 **Production-Ready**: Rate limiting, reconnects, token validation, log redaction
+
+**Available on:** [Fab Marketplace](https://www.fab.com/listings/97e1b3d0-df12-41eb-89f4-3e4e54f28fc4) | [Documentation](https://drive.google.com/file/d/1uR5sbjdLWhD4FhC4-CTITxnTPoYYra-X/view?usp=sharing) | [Discord](https://discord.gg/BwhyxQAAUn)
 
 #### 🎞️ Screenshot gallery
 
