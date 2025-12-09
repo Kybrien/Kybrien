@@ -125,4 +125,5 @@
 
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kybrien)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kybrien&theme=dark&mode=weekly&card_width=600)](https://git.io/streak-stats)
