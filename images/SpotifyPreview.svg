@@ -55,6 +55,9 @@
         .artist{
           color: #121212;
         }
+        .song{
+          color: #212122;
+        }
         
       }
 
@@ -62,7 +65,9 @@
         .artist{
           color: #f4f4f4;
         }
-      
+        .song{
+          color: #dbdbdc;
+        }
       }
 
       #bars {
