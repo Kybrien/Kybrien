@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=5000&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE;Kybrien" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Game+Developer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Game+Developer+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
 </p>
 
 <p align="center">
