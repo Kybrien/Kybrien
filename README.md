@@ -12,7 +12,10 @@
 
 <p align="center">
 
-  <!-- Core dev -->
+ 
+
+</p>
+ <!-- Core dev -->
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
@@ -25,9 +28,6 @@
   <img src="https://img.shields.io/badge/Canvas-111827?style=for-the-badge&logo=canvas&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
-
-</p>
-
 ---
 
 ### 🌌 Neon stats
