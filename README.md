@@ -15,37 +15,25 @@
 ### 🧬 Tech stack
 
 <p align="center">
-
-<table><tr>
-<td valign="top" width="60%">
-
-<!-- Tech stack badges -->
-
-  <!-- Core dev -->
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/C%23-9B5CFF?style=for-the-badge&logo=csharp&logoColor=ffffff" />
-
-  <br/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Canvas-111827?style=for-the-badge&logo=canvas&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
-
-</td>
+</p>
 
 <td width="5%">
   <div style="width: 2px; height: 200px; background: linear-gradient(180deg, #00F5FF 0%, #FF00FF 50%, #FFFF00 100%); margin: 0 auto;"></div>
 </td>
 
-<td valign="top" width="35%">
-  <h4>🎵 Currently Vibing</h4>
+<td valign="top" width="35%" height="40%">
   <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="100%" />
 </td>
-</tr></table>
 
 
 ---
@@ -125,5 +113,5 @@
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kybrien)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kybrien&theme=dark&mode=weekly&card_width=600)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=dark&mode=weekly&card_width=600" alt="GitHub Streak" /></a>
