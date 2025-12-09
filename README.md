@@ -117,6 +117,6 @@
 
 ### ▶ 🎵 Currently Vibing
 
-![spotify-github-profile](/img/SpotifyPreview.svg)
+![spotify-github-profile](/images/SpotifyPreview.svg)
 
 </p>
