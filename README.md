@@ -25,7 +25,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="35%" style="vertical-align: middle" />  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profilstyle="display: inline-block; transform: translateY(-50px)" width="49%"" />
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="35%" style="vertical-align: middle" />  <img src="/images/28
+                                                                                                                                                                                                                      .svg" alt="spotify-github-profilstyle="display: inline-block; padding-left: 20px; transform: translateY(-50px)" width="49%"" />
 </div>
 
 ---
