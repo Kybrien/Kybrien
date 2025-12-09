@@ -96,4 +96,4 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=dark&mode=weekly&card_width=600" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=blueberry-duo&border_radius=60&card_width=700&card_height=170" alt="GitHub Streak" /></a>
