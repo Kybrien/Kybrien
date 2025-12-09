@@ -32,21 +32,6 @@
 
 </p>
 
----
-
-### 🌌 Neon stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kybrien&show_icons=true&theme=tokyonight&hide_border=true&card_width=460" 
-    alt="GitHub stats Kybrien" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybrien&layout=compact&theme=tokyonight&hide_border=true&card_width=460" 
-    alt="Top languages Kybrien" />
-</p>
 
 ---
 
