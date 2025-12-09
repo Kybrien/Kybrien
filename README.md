@@ -27,21 +27,26 @@
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
 </p>
 
-<td width="5%">
-  <div style="width: 2px; height: 200px; background: linear-gradient(180deg, #00F5FF 0%, #FF00FF 50%, #FFFF00 100%); margin: 0 auto;"></div>
-</td>
-
-<td valign="top" width="35%" height="40%">
-  <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="100%" />
-</td>
 
 
 ---
 
-### 🕹️ Derniers jeux joués (Steam)
+### 🕹️ Derniers jeux joués (Steam) & 🎵 Spotify
 
-<p align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" />
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="/images/SpotifyPreview.svg" alt="spotify-github-profile" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
 </p>
 
 ---
