@@ -1,9 +1,17 @@
 <!-- github.com/Kybrien/Kybrien -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=00F0FF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
 </p>
-
+<p align="center">
+<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
+     
+<a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
+     
+<a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
+     
+<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
+</p>
 
 ---
 
@@ -81,16 +89,7 @@
 
 ### 🌐 Contact
 
-<p align="center">
-<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
-     
-<a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
-     
-<a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
-     
-<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
 
-</p>
 
 
 
