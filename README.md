@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
+  <a href="https://www.youtube.com/@AdriensDiscoveries"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/adrien-patte"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
+  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
+  <a href="https://discord.com/users/501764930207350804" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
 </p>
 
 ---
@@ -44,9 +44,6 @@
 
 
 ---
-
-### 🎬 Projects showcase
-
 <p align="center">
   <table>
     <tr>
