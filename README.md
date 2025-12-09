@@ -117,7 +117,6 @@
 
 ### ▶ 🎵 Currently Vibing
 
-<p align="center">
-  <a href="https://open.spotify.com/user/ygsjqu9qw5soiqccmmaxmvdp5">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ygs3qu9qw5so1qccmmaxmvdp5&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F0FF&bar_color_cover=false" alt="Spotify Now Playing" width="400" />  </a>
+![spotify-github-profile](/img/SpotifyPreview.svg)
+
 </p>
