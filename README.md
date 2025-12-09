@@ -11,9 +11,6 @@
 - 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)  
 
 ---
-
-### 🧬 Tech stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
@@ -26,12 +23,6 @@
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Aseprite-7D2F8F?style=for-the-badge&logo=aseprite&logoColor=ffffff" />
 </p>
-
-
-
----
-
-### 🕹️ Derniers jeux joués (Steam) & 🎵 Spotify
 
 <div align="center">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="49%" />
