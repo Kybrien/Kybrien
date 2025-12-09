@@ -1,18 +1,29 @@
-<!-- github.com/Kybrien/Kybrien -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien" />
+</p>
 
 <p align="center">
-  <p> Adrien Patte | Kybrien </p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Adrien+PATTE+%7C+Kybrien;Game+Developper+%7C+Game+Designer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=Game+Developer;Unreal+Engine+%7C+Unity+%7C+Team+Manager;Student+%7C+1st+Year+Master" />
 </p>
+
 <p align="center">
-<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
-     
-<a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
-     
-<a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
-     
-<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="images/Ytb.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/Linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
 </p>
+
+---
+
+<img src="https://img.shields.io/badge/Unreal%20Engine-1118272?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/C%23-985CFF?style=for-the-badge&logo=csharp&logoColor=ffffff" />
+
+<!--- Tools --->
+<img src="https://img.shields.io/badge/Github-1118272?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
@@ -79,11 +90,3 @@
   <img src="images/projet1_02.png" alt="Projet 1 - shot 2" width="30%" />
   <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
 </p>
-
-<p align="center">
-  <img src="images/projet2_01.png" alt="Projet 2 - shot 1" width="30%" />
-  <img src="images/projet2_02.png" alt="Projet 2 - shot 2" width="30%" />
-  <img src="images/projet3_01.png" alt="Projet 3 - shot 1" width="30%" />
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=blueberry-duo&border_radius=60&card_width=700&card_height=170" alt="GitHub Streak" /></a>
