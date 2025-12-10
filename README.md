@@ -77,5 +77,8 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 
 ---
 
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />
+<div align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />
+</div>
+
 
