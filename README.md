@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://www.fab.com/listings/97e1b3d0-df12-41eb-89f4-3e4e54f28fc4" target="_blank">
-    <img src="https://raw.githubusercontent.com/Kybrien/Kybrien/main/images/TwitchStreamSync_Banner.png" alt="Twitch StreamSync Banner" width="80%" />
+    <img src="images/BaneerStreamSyncReadme.png" alt="Twitch StreamSync Banner" width="80%" />
   </a>
 </div>
 
