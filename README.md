@@ -70,9 +70,9 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 #### 🎞️ Screenshot gallery
 
 <p align="center">
-  <img src="images/projet1_01.png" alt="Projet 1 - shot 1" width="30%" />
-  <img src="images/projet1_02.png" alt="Projet 1 - shot 2" width="30%" />
-  <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/soraimu" src="images/projects/Soraimu.png" alt="Soraimu - Project" width="30%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/the-tarnished-alchemist)" src="images/projects/Tarnished.png" alt="Tarnished Alchemist- Project" width="30%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/ggb)" src="images/projects/GGB.png" alt="GGB - Project" width="30%" />
 </p>
 
 ---
