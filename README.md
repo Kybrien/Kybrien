@@ -75,4 +75,4 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 </p>
 
 <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kybrien&theme=dark-minimalist&border_radius=60&card_width=700&card_height=170" alt="GitHub Streak" /></a>
+
