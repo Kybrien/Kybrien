@@ -70,9 +70,12 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 #### 🎞️ Screenshot gallery
 
 <p align="center">
-  <img href="https://adrienpatte-portfolio.framer.website/project/soraimu" src="images/projects/Soraimu.png" alt="Soraimu - Project" width="30%" />
-  <img href="https://adrienpatte-portfolio.framer.website/project/the-tarnished-alchemist)" src="images/projects/Tarnished.png" alt="Tarnished Alchemist- Project" width="30%" />
-  <img href="https://adrienpatte-portfolio.framer.website/project/ggb)" src="images/projects/GGB.png" alt="GGB - Project" width="30%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/soraimu" src="images/projects/Soraimu.png" alt="Soraimu - Project" width="33%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/the-tarnished-alchemist)" src="images/projects/Tarnished.png" alt="Tarnished Alchemist- Project" width="33%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/ggb)" src="images/projects/GGB.png" alt="GGB - Project" width="33%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/trigger-at-twilight)" src="images/projects/Trigger.png" alt="Trigger At Twilight - Project" width="33%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/another-mans-dungeon)" src="images/projects/AnotherMansDungeon.png" alt="AnotherMansDungeon - Project" width="33%" />
+  <img href="https://adrienpatte-portfolio.framer.website/project/vxv-engine)" src="images/projects/VXV.png" alt="VxV Engine - Project" width="33%" />
 </p>
 
 ---
