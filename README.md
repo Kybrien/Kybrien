@@ -36,12 +36,11 @@
   <img src="/images/SpotifyPreview.svg" alt="spotify-github-profilstyle="display: inline-block; padding-left: 20px; transform: translateY(-50px)" width="49%"" />
 </div>
 
-### ⚡ Kybrien // Neon Game Dev
+## About Me
 
 - 🎮 Master 1 Game Development (La Défense)  
 - 🕹️ Gameplay systems, physics-based mechanics, UE5 / UEFN  
 - 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)  
-
 
 ---
 
@@ -66,6 +65,8 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 
 **Available on:** [Fab Marketplace](https://www.fab.com/listings/97e1b3d0-df12-41eb-89f4-3e4e54f28fc4) | [Documentation](https://drive.google.com/file/d/1uR5sbjdLWhD4FhC4-CTITxnTPoYYra-X/view?usp=sharing) | [Discord](https://discord.gg/BwhyxQAAUn)
 
+---
+
 #### 🎞️ Screenshot gallery
 
 <p align="center">
@@ -73,6 +74,8 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
   <img src="images/projet1_02.png" alt="Projet 1 - shot 2" width="30%" />
   <img src="images/projet1_03.png" alt="Projet 1 - shot 3" width="30%" />
 </p>
+
+---
 
 <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198801860302&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam recently played" width="50%" style="vertical-align: middle" />
 
