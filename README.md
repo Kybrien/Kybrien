@@ -69,7 +69,6 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 <div align="center">
   <a href="https://adrienpatte-portfolio.framer.website/project" target="_blank">
     <img src="images/ProjectBaneer.png" alt="My Projects Baneer" width="100%" />
-    <p></p>
   </a>
 </div>
 
