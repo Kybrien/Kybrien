@@ -66,8 +66,12 @@ Connect your Unreal projects or games to Twitch in minutes, and interact with it
 **Available on:** [Fab Marketplace](https://www.fab.com/listings/97e1b3d0-df12-41eb-89f4-3e4e54f28fc4) | [Documentation](https://drive.google.com/file/d/1uR5sbjdLWhD4FhC4-CTITxnTPoYYra-X/view?usp=sharing) | [Discord](https://discord.gg/BwhyxQAAUn)
 
 ---
-
-#### 🎞️ Screenshot gallery
+<div align="center">
+  <a href="https://adrienpatte-portfolio.framer.website/project" target="_blank">
+    <img src="images/ProjectBaneer.png" alt="My Projects Baneer" width="100%" />
+    <p></p>
+  </a>
+</div>
 
 <p align="center">
   <a href="https://adrienpatte-portfolio.framer.website/project/soraimu"> <img href="https://adrienpatte-portfolio.framer.website/project/soraimu" src="images/projects/Soraimu.png" alt="Soraimu - Project" width="30%"/></a>
