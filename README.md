@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/C%2B%2B-007BFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/C%23-9B5CFF?style=for-the-badge&logo=csharp&logoColor=ffffff" />
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Canvas-111827?style=for-the-badge&logo=canvas&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=ffffff" />
