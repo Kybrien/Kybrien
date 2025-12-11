@@ -14,6 +14,8 @@
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src="images/Twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/501764930207350804" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="images/Discord.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://adrienpatte-portfolio.framer.website" alt="Portfolio" title="Portfolio"><img width="32px" src="images/PortfolioLogo.png"/></a>
 </p>
 
 ---
