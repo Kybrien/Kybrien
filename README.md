@@ -38,9 +38,9 @@
 
 ## About Me
 
-- 🎮 Master 1 Game Development (La Défense)  
-- 🕹️ Gameplay systems, physics-based mechanics, UE5 / UEFN  
-- 🔌 Plugins & tools (Twitch × Unreal, automation, bots, helpers de prod)  
+- 🎮 Master 1 Game Development at La Défense Paris (Looking for an internshipt ASAP)
+- 🕹️ Gameplay systems, Physics-based mechanics, Game Design, Level Design, UI / UX
+- 🏷️ I just released my new Unreal Engine Plugin "Twitch × Unreal" check it out just below
 
 ---
 
